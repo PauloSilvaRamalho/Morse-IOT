@@ -5,7 +5,7 @@ class Banco:
         return mysql.connector.connect(
             host = 'paparella.com.br',
             user = 'paparell_codigomorse',
-            password = '@Senai2025',
+            password = '********',
             database = 'paparell_codigomorse'
         )
     
