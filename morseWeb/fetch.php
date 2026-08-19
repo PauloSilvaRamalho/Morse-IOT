@@ -3,7 +3,7 @@
 $conexao = mysqli_connect(
     'paparella.com.br',
     'paparell_codigomorse', 
-    '@Senai2025', 
+    '******', 
     'paparell_codigomorse'
 );
 
